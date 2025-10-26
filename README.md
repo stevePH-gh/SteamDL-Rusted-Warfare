@@ -1,4 +1,4 @@
-# SteamDL-Rusted-Warfare
+# Rusted Warfare SteamDL
 
 ## A portable mod downloader
 
@@ -35,3 +35,4 @@ Reddit: [u/steveph_yt_unreal](https://www.reddit.com/user/steveph_yt_unreal/?utm
 ![reddit qr](https://ibb.co/FFDqDbf)  
 ### Download:
 Go to Releases below
+
