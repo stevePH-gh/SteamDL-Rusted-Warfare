@@ -34,5 +34,5 @@ Reddit: [u/steveph_yt_unreal](https://www.reddit.com/user/steveph_yt_unreal/?utm
 **QR Code:**  
 ![reddit qr](https://ibb.co/FFDqDbf)  
 ### Download:
-Go to Releases below
+Go to Releases
 
