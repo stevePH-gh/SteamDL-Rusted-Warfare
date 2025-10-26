@@ -9,8 +9,8 @@ This program only supports Windows x64
 Two files are available to download:  
 | Version | Requirements |
 |---------|-------------|
-| protoype2 | Download and run, no further setup needed |
-| portable      | May require .NET Framework 8.0 |
+| protoype2 | Download and run, no further setup needed (150MB) |
+| portable      | May require .NET Framework 8.0 (220KB) |
 
 ### Installation:
 This program needs SteamCMD to work.  
@@ -35,4 +35,5 @@ Reddit: [u/steveph_yt_unreal](https://www.reddit.com/user/steveph_yt_unreal/?utm
 ![reddit qr](https://ibb.co/FFDqDbf)  
 ### Download:
 Go to Releases
+
 
