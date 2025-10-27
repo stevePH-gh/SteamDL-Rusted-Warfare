@@ -2,7 +2,8 @@
 
 ## A portable mod downloader
 
-I created this project for only downloading Rusted Warfare mods from **SteamWorkshop**.
+I created this project for only downloading Rusted Warfare mods from **SteamWorkshop**.  
+**NOTES:** I have no plans developing a mobile app (*yet*)
 
 ### Support:
 This program only supports Windows x64  
@@ -36,6 +37,7 @@ Reddit: [u/steveph_yt_unreal](https://www.reddit.com/user/steveph_yt_unreal/?utm
 ![reddit qr](https://ibb.co/FFDqDbf)  
 ### Download:
 Go to Releases
+
 
 
 
