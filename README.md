@@ -19,7 +19,8 @@ This program needs SteamCMD to work.
 **1**. Download steamcmd.zip  
 **2**. Create a "steamcmd" folder on your desktop  
 **3**. Extract "steamcmd.exe" inside "steamcmd.zip"  
-**4**. Download mod files...
+**4**. Place "steamcmd.exe" inside "steamcmd" folder.  
+**5**. Download mod files...
 
 If you have issues or problems with the program, feel free to send your feedback!
 
@@ -35,6 +36,7 @@ Reddit: [u/steveph_yt_unreal](https://www.reddit.com/user/steveph_yt_unreal/?utm
 ![reddit qr](https://ibb.co/FFDqDbf)  
 ### Download:
 Go to Releases
+
 
 
 
