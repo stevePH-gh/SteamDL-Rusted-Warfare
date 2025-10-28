@@ -5,7 +5,7 @@
 I created this project for only downloading Rusted Warfare mods from **SteamWorkshop**.  
 **NOTES:** I have no plans developing a mobile app (*yet*)
 
-### Support:
+### **Support:**
 This program only supports Windows x64  
 Two files are available to download:  
 | Version | Requirements | Size |
@@ -13,7 +13,7 @@ Two files are available to download:
 | protoype2 | Download and run, no further setup needed | 150MB |
 | portable      | May require .NET Framework 8.0 | 220KB |
 
-### Installation:
+### **Installation:**
 This program needs SteamCMD to work.  
 
 
@@ -35,5 +35,6 @@ Facebook Page: [steveph official](https://web.facebook.com/profile.php?id=100086
 Reddit: [u/steveph_yt_unreal](https://www.reddit.com/user/steveph_yt_unreal/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)  
 **QR Code:**  
 ![reddit qr]([https://imgur.com/a/Pjpa57Y](https://github.com/stevePH-gh/SteamDL-Rusted-Warfare/blob/_images/Screenshot-2025-10-26-134755.png))  
-### Download:
+### **Download:**
 Go to Releases
+
