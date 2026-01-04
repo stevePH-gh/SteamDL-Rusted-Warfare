@@ -1,5 +1,9 @@
 # Rusted Warfare SteamDL
 
+## You're downloading an older verison
+Download the beta version [here](https://github.com/stevePH-gh/SteamDL-Rusted-Warfare-Beta):  
+[Click to redirect](https://github.com/stevePH-gh/SteamDL-Rusted-Warfare-Beta)  
+
 ## A portable mod downloader
 
 I created this project for only downloading Rusted Warfare mods from **SteamWorkshop**.  
@@ -31,6 +35,7 @@ Reddit: [u/steveph_yt_unreal](https://www.reddit.com/user/steveph_yt_unreal/?utm
 ![reddit qr](https://i.ibb.co/B5bnK5dt/chrome-qrcode-1762561024099.png)  
 ### **Download:**
 [Download the new Beta](https://github.com/stevePH-gh/SteamDL-Rusted-Warfare-Beta)  
+
 
 
 
